@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.eab2cd4f.css",
+    "main.js": "./static/js/main.e2a013e0.js",
+    "static/media/CINE.png": "./static/media/CINE.315f70ef2234589ea22b.png",
+    "static/media/DX.png": "./static/media/DX.072579580a92604a59b7.png",
+    "static/media/CHEF.png": "./static/media/CHEF.bdf9f6cf6be689d6dfcd.png",
+    "static/media/SUITE.png": "./static/media/SUITE.048833e66c00d98e7822.png",
+    "static/media/package1.png": "./static/media/package1.31db0d586f788a2ce550.png",
+    "static/media/package2.png": "./static/media/package2.c3a85513aa28c70a7f02.png",
+    "static/media/package3.png": "./static/media/package3.784148d638c421c8eeec.png",
+    "static/media/package9.png": "./static/media/package9.e7f04d61d9b34992e380.png",
+    "static/media/package7.png": "./static/media/package7.582c2befd6ec1ad67fcd.png",
+    "static/media/package8.png": "./static/media/package8.7f55916afb1e7ca8df69.png",
+    "static/media/package4.png": "./static/media/package4.263fa1daddde105ff1f6.png",
+    "static/media/package6.png": "./static/media/package6.16f0b858ade87ed6074f.png",
+    "static/media/package5.png": "./static/media/package5.d59635a37124ec334760.png",
+    "static/media/cgvlogo.png": "./static/media/cgvlogo.bf9e54a580a1d570dea0.png",
+    "index.html": "./index.html",
+    "main.eab2cd4f.css.map": "./static/css/main.eab2cd4f.css.map",
+    "main.e2a013e0.js.map": "./static/js/main.e2a013e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab2cd4f.css",
+    "static/js/main.e2a013e0.js"
+  ]
+}
